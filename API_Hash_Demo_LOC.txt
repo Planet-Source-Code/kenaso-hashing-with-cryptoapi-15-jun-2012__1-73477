@@ -1,0 +1,185 @@
+Count Lines of Code v1.2.231                             14 Jun 2012  06:37 PM
+
+                               API_Hash_Demo.vbp
+                        Kenneth Ives  kenaso@tx.rr.com
+------------------------------------------------------------------------------
+
+   VBP Name:  C:\Kens Software\API_Hash\API_Hash_Demo.vbp
+
+Module Name:  C:\Kens Software\API_Hash\clsAPI_Hash.cls
+
+                  32  Constant variables
+                   1  Enum Structures
+                   7  API Declare statements
+                   5  Property Let routines
+                   2  Property Get routines
+                   1  Event routines
+                   5  Sub routines
+                   7  Functions
+                 412  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                  81  Blank lines (Not Counted)
+                 491  Comment lines (Not Counted)
+          ----------
+                 465  Module lines of code
+
+Module Name:  C:\Kens Software\API_Hash\clsBigFiles.cls
+
+                  20  Constant variables
+                  10  API Declare statements
+                   4  Sub routines
+                   9  Functions
+                 267  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                 165  Blank lines (Not Counted)
+                 539  Comment lines (Not Counted)
+          ----------
+                 310  Module lines of code
+
+Module Name:  C:\Kens Software\API_Hash\clsKeyEdit.cls
+
+                   4  Constant variables
+                   2  Type Structures
+                   4  API Declare statements
+                  11  Sub routines
+                   2  Functions
+                 244  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                  48  Blank lines (Not Counted)
+                 382  Comment lines (Not Counted)
+          ----------
+                 267  Module lines of code
+
+Module Name:  C:\Kens Software\API_Hash\clsOperSystem.cls
+
+                  46  Constant variables
+                   4  Type Structures
+                   8  API Declare statements
+                  73  Property Get routines
+                  16  Sub routines
+                   4  Functions
+                 668  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                 145  Blank lines (Not Counted)
+                 284  Comment lines (Not Counted)
+          ----------
+                 746  Module lines of code
+
+Module Name:  C:\Kens Software\API_Hash\frmAbout.frm
+
+                   1  Constant variables
+                   2  API Declare statements
+                  10  Sub routines
+                  88  Miscellaneous lines of code
+                 295  Auto generated lines (Not Counted)
+                  25  Blank lines (Not Counted)
+                  52  Comment lines (Not Counted)
+          ----------
+                 101  Module lines of code
+
+Module Name:  C:\Kens Software\API_Hash\frmMain.frm
+
+                   3  Constant variables
+                   2  API Declare statements
+                  15  Sub routines
+                 465  Miscellaneous lines of code
+                 462  Auto generated lines (Not Counted)
+                  33  Blank lines (Not Counted)
+                 151  Comment lines (Not Counted)
+          ----------
+                 485  Module lines of code
+
+Module Name:  C:\Kens Software\API_Hash\modMain.bas
+
+                  11  Constant variables
+                  12  API Declare statements
+                   5  Sub routines
+                  12  Functions
+                 247  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  69  Blank lines (Not Counted)
+                 444  Comment lines (Not Counted)
+          ----------
+                 287  Module lines of code
+
+Module Name:  C:\Kens Software\API_Hash\modManifest.bas
+
+                  21  Constant variables
+                   2  Type Structures
+                   6  API Declare statements
+                   2  Sub routines
+                   2  Functions
+                 117  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  20  Blank lines (Not Counted)
+                 160  Comment lines (Not Counted)
+          ----------
+                 150  Module lines of code
+
+Module Name:  C:\Kens Software\API_Hash\modMessages.bas
+
+                  12  Constant variables
+                   1  Enum Structures
+                   1  Type Structures
+                   8  API Declare statements
+                   2  Sub routines
+                   4  Functions
+                 124  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  29  Blank lines (Not Counted)
+                 259  Comment lines (Not Counted)
+          ----------
+                 152  Module lines of code
+
+Module Name:  C:\Kens Software\API_Hash\modProcesses.bas
+
+                   8  Constant variables
+                   3  Type Structures
+                  12  API Declare statements
+                   3  Sub routines
+                   5  Functions
+                 228  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  43  Blank lines (Not Counted)
+                 263  Comment lines (Not Counted)
+          ----------
+                 259  Module lines of code
+
+Module Name:  C:\Kens Software\API_Hash\modTestData.bas
+
+                   6  Constant variables
+                   1  Sub routines
+                 128  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                   1  Blank lines (Not Counted)
+                  44  Comment lines (Not Counted)
+          ----------
+                 135  Module lines of code
+
+Module Name:  C:\Kens Software\API_Hash\modTrimStr.bas
+
+                   1  Constant variables
+                   1  Type Structures
+                   2  API Declare statements
+                   2  Functions
+                  73  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  19  Blank lines (Not Counted)
+                 133  Comment lines (Not Counted)
+          ----------
+                  79  Module lines of code
+
+          ==========
+               3,436  Total number of lines of code
+
+******************************************************************************
+NOTE:     Visual Basic trailers are not counted.  These are the
+          logical ending statements used by proceedural headings.
+
+               End Sub     End Function     End Property
+               End If      End Type         Loop
+               Next        Wend             End With
+               End Select
+******************************************************************************
+
+
